@@ -1,2 +1,5 @@
 # temka1358.github.io
-Test
+
+Git
+
+My goal is to be good programmer.
